@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoyukiharada&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoyukiharada&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tomoyukiharada&count_private=true&show_icons=true&show_icons=true" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tomoyukiharada&column=7)
 
 <!--
 **tomoyukiharada/tomoyukiharada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
